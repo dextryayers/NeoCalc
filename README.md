@@ -125,7 +125,7 @@
 
 ```bash
 git clone https://github.com/dextryayers/NeoCalc.git
-cd neocalc
+cd NeoCalc
 ```
 
 Or download and extract the ZIP archive.
