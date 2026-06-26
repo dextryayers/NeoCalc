@@ -292,11 +292,11 @@ console.log("Pass:", pass, "Fail:", fail);
 
 ## 📄 License
 
-MIT — free to use, modify, and distribute.
+MIT - free to use, modify, and distribute.
 
 ---
 
 <p align="center">
-  <strong>NeoCalc</strong> — Built with ❤️ by<br>
+  <strong>NeoCalc</strong> - Built with ❤️ by<br>
   <span style="background: linear-gradient(135deg, #a29bfe, #fdcb6e, #e84393); -webkit-background-clip: text; background-clip: text; color: transparent; font-weight: 700;">© 2026 hanif abdurrohim</span>
 </p>
