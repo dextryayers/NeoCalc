@@ -1,4 +1,4 @@
-# NeoCalc — Expert Scientific Calculator
+# NeoCalc - Expert Scientific Calculator
 
 > A premium, glassmorphism scientific calculator built with **Vue 3**, **Vuetify 4**, and **anime.js**. Features a full Shunting-Yard expression parser, 40+ mathematical functions, 2nd shift toggle, memory operations, ANS recall, and a cyberpunk-inspired neon UI.
 
